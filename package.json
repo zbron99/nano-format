@@ -1,0 +1,23 @@
+{
+  "name": "nano-of-day",
+  "version": "1.0.0",
+  "description": "Converts nanoseconds to time of day, and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbron99/nano-of-day.git"
+  },
+  "author": "Zach Broniszewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zbron99/nano-of-day/issues"
+  },
+  "homepage": "https://github.com/zbron99/nano-of-day#readme",
+  "dependencies": {
+    "bignumber.js": "^8.1.1",
+    "moment": "^2.24.0"
+  }
+}
